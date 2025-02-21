@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2Fvl11oK)
 Objective
 Your task is to implement a hash table in Python using a list as the underlying data structure. Your hash table will store words and count how many times each word appears in a given dataset. The competition will evaluate the efficiency of your implementation based on collisions, memory usage, and lookup efficiency.
 
