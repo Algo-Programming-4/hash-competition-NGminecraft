@@ -180,7 +180,7 @@ aglflaglHash = HashMap()
 def words_in(words):
     words.sort()
     result = aglflaglHash.words_in(words)
-    return result[0], result[1]
+    return result[0], result[1], aglflaglHash
 
 def lookup_word_count(word, hash=aglflaglHash):
     item = hash[word]
